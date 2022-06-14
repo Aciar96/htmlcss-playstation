@@ -1,3 +1,4 @@
+/* header */
 .header-top {
     height: 30px;
     background-color: black;
@@ -6,6 +7,7 @@ img{
     height: 100%;
     
 }
+/* jambotron */
 .jambotron{
    background-image:url(../img/jumbo-bg.png) ;
     width: 100%;
@@ -19,11 +21,37 @@ img{
     margin-top: 250px;
     
 }
+/* card */
 .card{
     width: 100%;
     height: 100px;
     margin-top: 30px;
+    
 }
+/* presentazione ps5 */
 .ps5{
-    height: 500px;
+    height: 400px;
+}
+/* estensioni */
+.thumb{
+    width: 100%;
+    height: 100px;
+    margin-top: 30px;
+}
+
+/* bannerS */
+.spot{
+    background-image:url(../img/it-takes-two-hero-banner-desktop.jpg) ;
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.giochi{
+    background-color: #1F1F1F;
+}
+
+.ps4{
+   height: 170px; 
 }

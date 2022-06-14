@@ -9,7 +9,7 @@ img{
 }
 /* jambotron */
 .jambotron{
-   background-image:url(../img/jumbo-bg.png) ;
+    background-image:url(../img/jumbo-bg.png) ;
     width: 100%;
     height: 600px;
     background-size: cover;
@@ -35,7 +35,7 @@ img{
 /* estensioni */
 .thumb{
     width: 100%;
-    height: 100px;
+    height: 140px;
     margin-top: 30px;
 }
 
@@ -53,5 +53,16 @@ img{
 }
 
 .ps4{
-   height: 170px; 
+   height: 140px; 
+}
+.bgc-BEBCBB{
+    background-color:#BEBCBB ;
+}
+
+.logo{
+    height: 65px;
+}
+
+.plus{
+    height: 300px;
 }

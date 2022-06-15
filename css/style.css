@@ -2,9 +2,12 @@ body{
     margin-top:80px ;
 }
 button:hover{
+    
     border-style: solid;
     border-width: 5px;
+    border-color: #606060;
 }
+
 /* header */
 header{
     position: fixed;
@@ -40,12 +43,12 @@ img{
 .card{
     width: 100%;
     cursor:pointer;
-    margin-top: 30px;
+    
 }
 
 .card:active{
     border: 3px solid aqua;
-    transition: all 1s ;
+    transition: all 1s;
 }
 /* presentazione ps5 */
 .ps5{

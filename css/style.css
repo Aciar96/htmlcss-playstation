@@ -4,7 +4,6 @@ body{
 button:hover{
     border-style: solid;
     border-width: 5px;
-
 }
 /* header */
 header{
@@ -40,9 +39,13 @@ img{
 /* card */
 .card{
     width: 100%;
-    height: 100px;
+    cursor:pointer;
     margin-top: 30px;
-    
+}
+
+.card:active{
+    border: 3px solid aqua;
+    transition: all 1s ;
 }
 /* presentazione ps5 */
 .ps5{
